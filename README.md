@@ -35,7 +35,7 @@ A little intro about the installation.
 
 ```bash
 git clone git@github.com:Tom-Mendy/Arcade.git
-cd ./arcade
+cd ./Arcade
 ./compile.sh
 ```
 
