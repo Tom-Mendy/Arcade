@@ -18,7 +18,15 @@ player scores.
 ***
 A list of technologies used within the project:
 
-* [C++](https://en.cppreference.com/w/): latest available
+* [C++](https://en.wikipedia.org/wiki/C%2B%2B): latest available
+* Ncurces
+* SFML
+* SDL2
+
+For documentation
+
+* Doxygen
+* Latex
 
 ### Installation
 
@@ -26,18 +34,15 @@ A list of technologies used within the project:
 A little intro about the installation.
 
 ```bash
-git clone git@github.com:matheo2027/Arcade.git
+git clone git@github.com:Tom-Mendy/Arcade.git
 cd ./arcade
-cmake -S . -B build
-cmake --build build
+./compile.sh
 ```
 
 ### Overview
 
 ***
 
-<!-- ![Screenshot](JAM_OPEN_DATA.png) -->
-
 group members: killian.trouve@epitech.eu tom.mendy@epitech.eu matheo.piques@epitech.eu
 
-group members: arthur.gauffre@epitech.eu
+other group members: arthur.gauffre@epitech.eu
